@@ -1,0 +1,8 @@
+falures_same_nuc,pass_other_nuc,failures_new_app,pass_old_app,decision
+1,1,0,0,nuc_problem
+1,1,1,0,nuc_problem
+1,1,0,1,nuc_problem
+1,1,1,1,nuc_problem
+0,0,1,1,app_update_problem
+0,1,1,1,app_update_problem
+1,0,1,1,app_update_problem
